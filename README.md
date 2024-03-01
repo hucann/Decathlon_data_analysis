@@ -20,4 +20,4 @@ To run the SQL script, you'll need a database management system (e.g., MySQL, Po
 
 ## Additional Information
 
-For any questions or issues, please contact [your contact information].
+For any questions or issues, please contact hucan0324@gmail.com
