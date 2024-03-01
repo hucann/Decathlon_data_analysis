@@ -1,0 +1,14 @@
+familar with process to tackle real-life problem
+	- code & process reuse
+
+---------------------------------
+
+link to requirement for part 2
+- okay to simply join with duplicated info for customer
+- need to combine for items in transaction???
+
+---------------------------------
+
+- furnish qualitative analysis, assumption & reasoning
+- improve code clearity, code structure
+
